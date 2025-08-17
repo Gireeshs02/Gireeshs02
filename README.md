@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gireesh 👋</h1>
+<h1 align="center">Hi, I'm Gireesh 👋🏻</h1>
 <h2 align="center"><b>Python Developer | Backend & ML Enthusiast</b></h2>
 
 ## 📈 GitHub Stats
@@ -13,7 +13,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,vscode,visualstudio,c" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,vscode,visualstudio" />
 </p>
 
 ---
@@ -32,5 +32,8 @@
   </a>
   <a href="https://gireeshs02.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-00c7b7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://roadmap.sh/u/sathyavedugireesh">
+    <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
   </a>
 </p>
