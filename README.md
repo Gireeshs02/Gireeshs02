@@ -1,19 +1,44 @@
 <h1 align="center">Hi, I'm Gireesh 👋🏻</h1>
 <h2 align="center"><b>Python Developer | Backend & ML Enthusiast</b></h2>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&theme=radical" width="43%" />
-</p>
+## 👨‍💻 About Me
+- 🎓 BTech CSE student passionate about **Backend Development** & **Machine Learning**  
+- 🐍 Mainly coding in **Python**, exploring **Django** for web apps  
+- 📊 Interested in **Data Science, AI, and real-world projects**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,mysql,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,git,github,vscode,visualstudio" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&theme=tokyonight" width="43%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gireeshs02&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+## 🏆 Github Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gireeshs02&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gireeshs02&theme=tokyo-night" />
 </p>
 
 ---
@@ -36,4 +61,10 @@
   <a href="https://roadmap.sh/u/sathyavedugireesh">
     <img src="https://img.shields.io/badge/Roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gireeshs02&label=Profile%20Views&color=9370DB&style=for-the-badge" alt="profile views" />
 </p>
