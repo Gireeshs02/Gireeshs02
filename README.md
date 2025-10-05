@@ -9,22 +9,53 @@
 ---
 
 ## 🛠️ Tech Stack
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,django,html,css" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,git,github,vscode,visualstudio" />
-</p>
+### Databases
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+### Tools & IDEs
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
+### Data Science & Machine Learning
+*(Libraries: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow)*
+
+
+---
+
+## 🚀 Featured Projects
+- **🧩 [First Contributions](https://github.com/gireeshs02/first-contributions)**
+
+  A beginner-friendly repository designed to help newcomers make their first open-source contribution.
+  
+- **🎬 [IMDb Data Pipeline](https://github.com/Gireeshs02/imdb-data-pipeline)**
+
+  An automated ETL pipeline built in **Python** to extract, transform, and load IMDb datasets into **MySQL**.
+
+- **🛒 [Sales Data Analysis](https://github.com/Gireeshs02/sales-data-analysis)**
+
+  A **data analysis project** for retail sales, focusing on insights, trends, and visualizations using Python
+
+- **📊 [PowerBI](https://github.com/Gireeshs02/PowerBI)**
+
+  A collection of **Power BI dashboards** showcasing data visualization and business intelligence skills.
+
+- **🐍 [Python](https://github.com/Gireeshs02/Python)**
+
+  A repository containing **fundamental Python scripts and exercises** for practice and learning.
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&theme=tokyonight" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gireeshs02&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gireeshs02&theme=tokyonight" width="49%" />
 </p>
 
 ---
