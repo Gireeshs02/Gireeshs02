@@ -50,8 +50,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gireeshs02&include_all_commits=true&show_icons=true&rank_icon=percentile&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gireeshs02&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight" width="49%" />
 </p>
 
 <p align="center">
